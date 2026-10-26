@@ -12,7 +12,7 @@ Currently, I'm working on **Jarvis**, my personal AI assistant project.
 
 ##  About Me
 
--  Building **Jarvis AI** — a personal AI assistant using Python.
+-  Building a personal AI assistant using Python.
 -  Learning and applying Python through hands-on projects.
 -  Practicing Data Structures and Algorithms.
 -  Exploring HTTP, REST APIs, and JSON.
